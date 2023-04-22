@@ -1,1 +1,1 @@
-# corona.github.io
+# Corona cases detector based app
